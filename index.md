@@ -1,3 +1,3 @@
-# Ranjodh Singh
+# Welcome
 
-Welcome To My Portfolio Website
+This is my portfolio website.
